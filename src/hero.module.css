@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.image {
+    height: 293px ;
+    width:100%
+}
+
+.background {
+    background-color: #D8C3A5;
+    color: white;
+    height: 400px;
+    text-align: center;
+    
+}
+
+.texBox{
+    border-style: solid;
+    border-color: black;
+
+}
