@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 345px;
+    
+
+}
+
+.btn{
+    background-color: white;
+
+    border-style: solid;
+    border-color: #02076F;
+    border-width: 3px;
+
+    color: #02076F;
+    font-size: 20px;
+
+
+    height: 50px;
+    padding: 10px;
+}

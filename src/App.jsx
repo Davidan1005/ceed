@@ -5,6 +5,10 @@ import './App.css'
 
 import Header from './header.jsx'
 import Hero from './Hero.jsx'
+import Samples from './samples.jsx'
+import About from './about.jsx'
+import Contact from './contact.jsx'
+import Footer from './footer.jsx'
 
 function App() {
 
@@ -12,6 +16,10 @@ function App() {
     <>
       <Header />
       <Hero />
+      <Samples />
+      <About />
+      <Contact />
+      <Footer />
       
       
     </>
